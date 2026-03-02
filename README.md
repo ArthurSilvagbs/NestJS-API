@@ -104,11 +104,3 @@ NestJS-API/
 ├── docker-compose.yml  # Configuração do container PostgreSQL
 └── package.json        # Scripts de execução e dependências do projeto
 ```
-
-## Licença
-
-Este projeto está sob a licença UNLICENSED.
-
----
-
-*Gerado por Manus AI em 27 de fevereiro de 2026.*
